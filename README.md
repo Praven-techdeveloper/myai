@@ -1,1 +1,1 @@
-# myai
+install streamlit
